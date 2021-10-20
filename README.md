@@ -1,2 +1,1 @@
-# linuxstart
-linuxstart example
+#linuxstart example
